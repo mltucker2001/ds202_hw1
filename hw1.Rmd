@@ -1,0 +1,31 @@
+---
+title: "Homework #1"
+author: "Meredith Tucker (Github- mltucker2001)"
+date: "1/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Job Related to Data Science**
+### Machine Learning Engineer
+
+The machine learning engineering field is largely dependent on data science. Machine learning engineers create artificial intelligence programs that are able to identify patterns. Machine learning engineers use the ideas and models created by data scientists and creates software that can apply to the real-world. A common example of a machine learning engineering project is the use of voice recognition. The machine learning engineering field is less focused on analyzing data and is more based on creating data models for pre-analyzed data when compared to the job of a data scientist. 
+
+#### *Comparison of Data Scientist and Machine Learning Engineer*
+<https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/>
+
+
+
+![Picture](https://www.stockvault.net/data/2016/05/09/196879/preview16.jpg)
+
+
+```{r}
+version
+```
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+
